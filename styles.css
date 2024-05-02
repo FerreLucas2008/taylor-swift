@@ -41,7 +41,10 @@
 .escola-titulo{
   padding: 24px 0;
 }
-
+.estudante-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+}
 .estudante-imagem{
   width: 120px;
 }
@@ -61,5 +64,5 @@
 
 .estudante-todos{
   display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-columns: 20% 20% 20% 20% 20% 20%;
 }
